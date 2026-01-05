@@ -1,10 +1,10 @@
 # DEMO PLAN
 
-1. Core Purpose
+### 1. Core Purpose
 
 Demo is a free website builder that creates websites and logos based on user instructions.
 
-2. Website Creation Flow
+### 2. Website Creation Flow
 
 User starts a new website.
 
@@ -18,7 +18,7 @@ User customizes pages and content.
 
 Demo publishes the website.
 
-3. Login System
+### 3. Login System
 
 Scratch login
 
@@ -26,7 +26,7 @@ PenguinMod login
 
 GitHub login
 
-4. Features
+### 4. Features
 
 Logo generator
 
@@ -44,7 +44,7 @@ YouTube embedding
 
 YouTube summaries
 
-5. Ads
+### 5. Ads
 
 Banner ads
 
@@ -52,7 +52,7 @@ Demo‑only ads
 
 Optional creator ads
 
-6. Page Types
+### 6. Page Types
 
 Home
 
@@ -68,7 +68,7 @@ Video page
 
 Custom pages
 
-7. Tech Stack
+### 7. Tech Stack
 
 Next.js
 
